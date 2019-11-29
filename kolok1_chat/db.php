@@ -1,6 +1,6 @@
 <?php
 $MYSQL_HOST = "localhost";
-$MYSQL_DATABASE = "kolok1_groceries";
+$MYSQL_DATABASE = "kolok1_chat";
 $MYSQL_USER = "root";
 $MYSQL_PASS = "";
 $MYSQL_CHARSET= "utf8mb4";
